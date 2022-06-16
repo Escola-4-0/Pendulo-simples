@@ -17,3 +17,4 @@ Pêndulo Simples - Material de apoio para construção de atividades.
 
 # Materiais
 
+## Material utilizado durante atividades realização na Campus Party Goiás 18/06/2022
