@@ -7,6 +7,7 @@ Pêndulo Simples - Material de apoio para construção de atividades.
 # Arquivos para replicar o projeto
 ## teste
  - Eixo para apoio do rolamento
+ -[Arquivo fonte:](https://github.com/Escola-4-0/Pendulo-simples/tree/main/Eixo%20para%20rolamento)
  - Haste para fixação do celular ou placa micro:bit
  - Goniômetro
  - Sobra de madeira para fixação das hastes
