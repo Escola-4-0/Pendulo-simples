@@ -20,5 +20,5 @@ Pêndulo Simples - Material de apoio para construção de atividades.
 # Materiais
 
 - Material utilizado na Campus Party Goiás 18/06/2022
-- Material utilizado na Latinoware 02/011/2022
+- Material utilizado na Latinoware 02/11/2022
  
